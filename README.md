@@ -3,7 +3,7 @@
 <h1 align="center">Hi I'm saida makhchan 👋 </h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/saida makhchan"><img src="https://img.shields.io/badge/linkedin-230177?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.youtube.com/c/DevDynamos"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.youtube.com/@DevDynamos-wk9lk"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="https://www.instagram.com/saida makhchan"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
